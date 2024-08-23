@@ -1,0 +1,11 @@
+locomotive: https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/ 
+            css and js both 
+            !important-> js should be placed above gsap, gsap-scrolltrigger. 
+    note-> locomotive doesn't work together with scrolltrigger
+    solution-> make custom js logic     
+
+GSAP, gsap-scrolltrigger: https://cdnjs.com/libraries/gsap     
+
+
+Canvas boilerplate reference:
+         https://github.com/aadilkhan08/CANVAS-CODE/blob/main/script.js
